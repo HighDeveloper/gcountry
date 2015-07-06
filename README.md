@@ -1,2 +1,2 @@
-# gcountry
-Most simple JavaScript library for work with countries.
+# GcountryJS
+Most simple JavaScript library to work with all global countries.
